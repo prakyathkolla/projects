@@ -1,5 +1,6 @@
 ## Project info
 This is a consolidation project of all the projects that I develop.
+
 **URL**: https://projects.kollaprakyath.dev/
 
 **Use your preferred IDE**
