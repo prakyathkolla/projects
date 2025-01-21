@@ -1,12 +1,6 @@
-# Welcome to your Lovable project
-
 ## Project info
-
-**URL**: https://lovable.dev/projects/2d88b602-f242-4b4c-8b5f-17b5b8ed62e3
-
-## How can I edit this code?
-
-There are several ways of editing your application.
+This is a consolidation project of all the projects that I develop.
+**URL**: https://projects.kollaprakyath.dev/
 
 **Use your preferred IDE**
 
