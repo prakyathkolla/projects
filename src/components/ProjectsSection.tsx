@@ -39,7 +39,7 @@ const projects = [
 const ProjectsSection = () => {
   return (
     <section className="w-full max-w-7xl mx-auto px-4 py-16">
-      <h1 className="text-5xl font-bold text-center mb-16 text-white animate-slide-up">
+      <h1 className="text-6xl font-extrabold text-center mb-16 text-[#E5DEFF] tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-[#9b87f5] to-[#D6BCFA] animate-slide-up font-sans">
         PROJECTS
       </h1>
       <div className="grid grid-cols-1 gap-8">

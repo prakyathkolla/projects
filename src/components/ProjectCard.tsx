@@ -13,7 +13,7 @@ const ProjectCard = ({ title, description, achievements, link }: ProjectCardProp
   return (
     <Card className="group backdrop-blur-sm bg-white/10 border-none transition-all duration-300 hover:transform hover:scale-[1.02] hover:shadow-xl animate-fade-in">
       <CardHeader>
-        <CardTitle className="text-2xl font-bold text-primary">{title}</CardTitle>
+        <CardTitle className="text-3xl font-bold bg-gradient-to-r from-[#9b87f5] to-[#D6BCFA] bg-clip-text text-transparent font-sans tracking-tight">{title}</CardTitle>
       </CardHeader>
       <CardContent className="space-y-6">
         <div>
@@ -38,7 +38,7 @@ const ProjectCard = ({ title, description, achievements, link }: ProjectCardProp
           href={link}
           target="_blank"
           rel="noopener noreferrer"
-          className="inline-flex items-center gap-2 text-primary hover:text-primary/80 transition-colors"
+          className="inline-flex items-center gap-2 text-[#9b87f5] hover:text-[#D6BCFA] transition-colors"
         >
           <span>View Project</span>
           <ExternalLink className="w-4 h-4" />
