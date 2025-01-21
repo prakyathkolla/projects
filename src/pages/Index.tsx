@@ -2,7 +2,7 @@ import ProjectsSection from "@/components/ProjectsSection";
 
 const Index = () => {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-[rgba(147,39,143,1)] via-[rgba(234,172,232,1)] to-[rgba(246,219,245,1)]">
+    <div className="min-h-screen bg-[#1A1F2C] bg-[radial-gradient(ellipse_at_top_right,_var(--tw-gradient-stops))] from-purple-900/30 via-[#1A1F2C] to-[#1A1F2C]">
       <ProjectsSection />
     </div>
   );
