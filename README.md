@@ -1,5 +1,5 @@
 ## Project info
-This is a consolidation project of all the projects that I develop.
+This is a consolidation project of all the projects that I develop and will be adding all the projects to this once it is project ready. 
 
 **URL**: https://projects.kollaprakyath.dev/
 
