@@ -103,8 +103,8 @@ const projects = [
       "Explored AI-powered tools to deliver practical, real-world applications, gaining hands-on experience in automation and innovation.",
     ],
     media: [
-      "public/2025-01-10 10-06-06 (1).mp4",
-      "public/2025-01-10 11-07-52.mp4",
+      "/2025-01-10 10-06-06 (1).mp4",
+      "/2025-01-10 11-07-52.mp4",
     ],
     // link: "https://github.com/prakyathkolla/projects",
   },
