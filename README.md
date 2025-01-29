@@ -22,17 +22,15 @@ This portfolio is designed as a single-page application (SPA) built with modern 
 This project leverages the following tools and frameworks:
 
 - **Frontend:**
-
-- Vite
-- React
-- TypeScript
-- Tailwind CSS
-- shadcn/ui (for modular and reusable components)
+  - Vite
+  - React
+  - TypeScript
+  - Tailwind CSS
+  - shadcn/ui (for modular and reusable components)
 
 - **Development Tools:**
-
-- Node.js
-- npm (Node Package Manager)
+  - Node.js
+  - npm (Node Package Manager)
 
 ---
 
@@ -48,7 +46,7 @@ This project leverages the following tools and frameworks:
 
 ## 📸 Preview
 
-![Portfolio Screenshot](assets/portfolio-projects/Portfolio.png)
+![Portfolio Screenshot](assets/public/project.png)
 
 ---
 
