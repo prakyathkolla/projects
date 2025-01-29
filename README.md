@@ -4,7 +4,7 @@ Welcome to my consolidated projects portfolio! This repository serves as a showc
 
 ## 🔗 Live Demo
 
-[Visit Portfolio Website](https://projects.kollaprakyath.dev/)
+[Visit Project Website](https://projects.kollaprakyath.dev/)
 
 ---
 
@@ -46,7 +46,7 @@ This project leverages the following tools and frameworks:
 
 ## 📸 Preview
 
-![Portfolio Screenshot](assets/public/project.png)
+![Project Screenshot](public/project.png)
 
 ---
 
