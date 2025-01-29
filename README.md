@@ -18,7 +18,7 @@ This portfolio is designed as a single-page application (SPA) built with modern 
 
 ---
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 This project leverages the following tools and frameworks:
 
 - **Frontend:**
@@ -36,7 +36,7 @@ This project leverages the following tools and frameworks:
 
 ---
 
-##🚀 Features
+## 🚀 Features
 
 - **Comprehensive Project Showcase:** Centralized repository of my key projects, each with detailed descriptions and links.
 - **Fast Development Workflow:** Powered by Vite for quick builds and hot module replacement.
