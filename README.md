@@ -23,16 +23,16 @@ This project leverages the following tools and frameworks:
 
 - **Frontend:**
 
--Vite
--React
--TypeScript
--Tailwind CSS
--shadcn/ui (for modular and reusable components)
+- Vite
+- React
+- TypeScript
+- Tailwind CSS
+- shadcn/ui (for modular and reusable components)
 
 - **Development Tools:**
 
--Node.js
--npm (Node Package Manager)
+- Node.js
+- npm (Node Package Manager)
 
 ---
 
